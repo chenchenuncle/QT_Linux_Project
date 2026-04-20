@@ -1,1 +1,2 @@
-# -
+- ## -基于Linux系统开发的（QT Thread）多线程，（Qt Network模块）通信协议，（qt serial prto模块和qt serial Bus）串口，(Qt Multimedia)多媒体等等多核心模块
+- ## -每个简易项目都使用每个模块，具体项目请点击项目名称浏览阅读文件
