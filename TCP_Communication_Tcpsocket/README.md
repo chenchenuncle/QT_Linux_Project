@@ -14,8 +14,10 @@
 
 ## 运行界面
 
-- **输入ip页面** 
-- **输入端口页面**
+- **输入ip页面**
+
+- **输入端口页面**<img width="1917" height="1077" alt="图片" src="https://github.com/user-attachments/assets/0f4c2e83-ec20-4af7-b7a0-088857a31510" />
+
 - **正式页面** 
 
 ## 技术栈
