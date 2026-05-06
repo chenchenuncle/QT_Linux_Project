@@ -1,7 +1,11 @@
 # 骰子随机生成器（Dice Random Generator）
 
-一个基于 Qt 框架的多线程骰子生成应用，演示 Qt 的多线程与信号槽机制。
+<img width="1917" height="1077" alt="截图 2026-05-06 18-30-53" src="https://github.com/user-attachments/assets/d84627c7-bcb9-42f6-95cc-e7fc153c54c2" />
 
+<img width="1917" height="1077" alt="截图 2026-05-06 18-31-10" src="https://github.com/user-attachments/assets/967cb4dd-09c8-4258-b206-64a5fa53091c" />
+
+一个基于 Qt 框架的多线程骰子生成应用，演示 Qt 的多线程与信号槽机制。
+<img width="1917" height="1077" alt="截图 2026-05-06 18-31-00" src="https://github.com/user-attachments/assets/a9b1e9cf-88a8-4339-b6d6-08d9944d4a03" />
 ## 功能特点
 
 - 🎲 随机生成1-6点的骰子（展示图片与点数）
