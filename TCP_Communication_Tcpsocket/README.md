@@ -13,12 +13,11 @@
 - ✅ 错误处理和提示信息
 
 ## 运行界面
-
-- **输入ip页面**
+- **输入ip页面**<img width="1917" height="1077" alt="截图 2026-05-06 21-34-00" src="https://github.com/user-attachments/assets/255162f7-ea70-447d-9c7c-49f1dc20b1b7" />
 
 - **输入端口页面**<img width="1917" height="1077" alt="图片" src="https://github.com/user-attachments/assets/0f4c2e83-ec20-4af7-b7a0-088857a31510" />
 
-- **正式页面** 
+- **正式页面** <img width="1917" height="1077" alt="截图 2026-05-06 21-35-03" src="https://github.com/user-attachments/assets/7c9bcdd1-9798-4a4c-8de1-0d5684c6e5c7" />
 
 ## 技术栈
 
