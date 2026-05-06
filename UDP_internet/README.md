@@ -24,7 +24,7 @@
 
 ## 运行界面
 
-<img width="1917" height="1077" alt="图片" src="https://github.com/user-attachments/assets/675839e7-7c24-469d-83a3-1ceb89075bb8" /
+<img width="1917" height="1077" alt="图片" src="https://github.com/user-attachments/assets/84975cf6-f66b-4b8c-a368-97cd27c1cebd" />
 
 ## 界面组件说明
 
