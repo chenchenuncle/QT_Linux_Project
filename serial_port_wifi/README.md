@@ -49,6 +49,11 @@
 - AT+CIPSEND - 发送数据
 - 以及更多常用指令
 
+- **AT页面**-:<img width="1917" height="1078" alt="截图 2026-05-06 23-46-42" src="https://github.com/user-attachments/assets/f34c0421-6ba5-43e7-bdcd-076a20c4a028" />
+
+- **透传页面**-:<img width="1917" height="1078" alt="图片" src="https://github.com/user-attachments/assets/0049a2dd-cdc0-48bc-a14b-3b4ab98f4fcd" />
+
+
 ## 🛠️ 技术栈
 
 - **框架**: Qt 6.x (Qt SerialPort, Qt Widgets)
